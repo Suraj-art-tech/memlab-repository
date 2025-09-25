@@ -1,2 +1,2 @@
-# memlab-repository
-sample memlab repository
+# memlab
+Sample memory leak app
